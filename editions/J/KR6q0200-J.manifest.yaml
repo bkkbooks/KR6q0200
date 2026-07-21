@@ -19,7 +19,7 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0200_000-J.yaml, hash: 'sha256:05d7c2aa72d8e983bd82ee415cfe212cf7b37ab9790710911143b4958094405e'}
+  - {seq: 0, filename: KR6q0200_000-J.yaml, hash: 'sha256:fddfab03aa2a43d31eede1603b8759512e40e4892810da82ad7fe57cafee7d2e'}
   - {seq: 1, filename: KR6q0200_001-J.yaml, hash: 'sha256:41094da5c08bda4182753b65f265df5542e3c62ada3ac0fd0cd29895dd402d9f'}
   - {seq: 2, filename: KR6q0200_002-J.yaml, hash: 'sha256:a0a464e0efbd1ad5f41620ad29d8157447472e89bb2ee49b91a87f0511b45cbe'}
   - {seq: 3, filename: KR6q0200_003-J.yaml, hash: 'sha256:831713ea6eb854a2cb1170b58c0acaba8cbffa208c62d18eb4c45624e5d8f171'}
@@ -53,7 +53,7 @@ assets:
   - {seq: 31, filename: KR6q0200_031-J.yaml, hash: 'sha256:3b0eb7ce977f37767214978351b4a7bc65d101056648c28a1f0e8c3a1df3ce60'}
   - {seq: 32, filename: KR6q0200_032-J.yaml, hash: 'sha256:0a6b7af7686a749fa4dedcabb103fbdfb0c64d6d3c19ead103e8f9f1fc66eb4e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0200_000-J.markers.yaml, hash: 'sha256:2e9db922f6c8b20539f2885536af52fccf26ea9f3bc5b30d477a6da885c48a93'}
+  - {seq: 0, role: markers, filename: assets/KR6q0200_000-J.markers.yaml, hash: 'sha256:39b179dec9a6cbb50b0aef0ea351559d8e615a675319e309bc406f6e26fcac71'}
   - {seq: 1, role: markers, filename: assets/KR6q0200_001-J.markers.yaml, hash: 'sha256:65242e2573b127cf03c28b9d4d5e3460367606617aa9f459794a9cce24a82322'}
   - {seq: 2, role: markers, filename: assets/KR6q0200_002-J.markers.yaml, hash: 'sha256:ff9483473f816d0558f3394962346f00492ae7cda4d335a1843835f799df468f'}
   - {seq: 3, role: markers, filename: assets/KR6q0200_003-J.markers.yaml, hash: 'sha256:ea70b3fc0d7090da79cd7b52a3966dabf8a7ede3bf3a848c15d7d0c5e7e359a0'}
@@ -91,7 +91,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0200_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序一
@@ -101,7 +101,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0200_J_000-mulu-2
     span:
-    - front
+    - body
     - 859
     - 859
   label: 序二
@@ -111,7 +111,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0200_J_000-mulu-3
     span:
-    - front
+    - body
     - 1437
     - 1437
   label: 總目
@@ -7267,4 +7267,4 @@ table_of_contents:
   label: 復妹八姑晃道人
   type: mulu
   level: 1
-hash: sha256:a1115fab49dd728908f0609c2e92c96ea09ae13f7593474ec7b69cdcb00833fe
+hash: sha256:95e64e4738d884da772887902a7fb4a577f513be80281fc3ba9731dc13d920c9
